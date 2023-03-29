@@ -18,6 +18,7 @@ Pogrupowana według dużych miast + kategoria `Remote`. Na końcu więcej o same
 * **Reality Games** - Michał Płachta (na grupie), gry mobilne bazujące na big data, silnik do gier, mała firma, mocno funkcyjne
 * **Ocado Technology** - głównie Java, ale jest kilka projektów Scalowych
 * **[Grand Parade](https://grandparade.co.uk/)** - Domena związana z zakładami sportowymi i hazardem, własne produkty, projekt Scalowy na nowy rynek,  kontakt Sebastian Niemczyk na grupie
+* **[Intellias]** (https://career.intellias.com/?filter=scala)** - głównie outsourcing, takżę Scalowy
 
 ## Łódź
 * **IDEMIA**- Paweł Włodarski(na grupie) Domeny biznesowe zwiazane z  kryptografią, są dwa projekty czysto scalowe, jeden ma interfejsy SOAPowe , korpo własne produkty. Widełki na scale 10-15k na B2B.
@@ -73,6 +74,7 @@ Pogrupowana według dużych miast + kategoria `Remote`. Na końcu więcej o same
 * **SoftwareMill**- Adam Warski (na grupie), praca mocno otwarta, jak open source
 * **Qordoba**- Marek Skórkowski (na grupie), System wspomagania tłumaczeń. Mały zespół. Scala, Play, Akka trochę Sparka, ML. Dobrze płacą, firma z San Francisco
 * **VirtusLab**
+*  **[Intellias]** (https://career.intellias.com/?filter=scala)** - głównie outsourcing, takżę Scalowy
 
 # Meta
 
